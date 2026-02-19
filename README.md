@@ -6,7 +6,7 @@
  App URL
 [https://compromise.vercel.app](https://compromise.vercel.app)
 
-![スクリーンショット］2026-02-19 075047.png
+![スクリーンショット](スクリーンショット%202026-02-19%20075047.png)
 
 ---
 
